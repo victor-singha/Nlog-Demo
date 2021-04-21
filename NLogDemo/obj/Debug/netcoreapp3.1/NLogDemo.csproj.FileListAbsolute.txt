@@ -1,0 +1,16 @@
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\bin\Debug\netcoreapp3.1\NLogDemo.exe
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\bin\Debug\netcoreapp3.1\NLogDemo.deps.json
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\bin\Debug\netcoreapp3.1\NLogDemo.runtimeconfig.json
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\bin\Debug\netcoreapp3.1\NLogDemo.runtimeconfig.dev.json
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\bin\Debug\netcoreapp3.1\NLogDemo.dll
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\bin\Debug\netcoreapp3.1\NLogDemo.pdb
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\obj\Debug\netcoreapp3.1\NLogDemo.csprojAssemblyReference.cache
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\obj\Debug\netcoreapp3.1\NLogDemo.AssemblyInfoInputs.cache
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\obj\Debug\netcoreapp3.1\NLogDemo.AssemblyInfo.cs
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\obj\Debug\netcoreapp3.1\NLogDemo.csproj.CoreCompileInputs.cache
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\obj\Debug\netcoreapp3.1\NLogDemo.csproj.CopyComplete
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\obj\Debug\netcoreapp3.1\NLogDemo.dll
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\obj\Debug\netcoreapp3.1\NLogDemo.pdb
+C:\Users\vicun\source\repos\NLogDemo\NLogDemo\obj\Debug\netcoreapp3.1\NLogDemo.genruntimeconfig.cache
